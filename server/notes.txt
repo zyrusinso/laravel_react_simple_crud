@@ -1,0 +1,1 @@
+docker build -t laravel-app . && docker run -p 8001:8001 laravel-app
